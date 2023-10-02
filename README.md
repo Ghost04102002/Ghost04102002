@@ -1,3 +1,22 @@
+# Repositorio Personal
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
+## Información personal
+* Nombre: [Ghost04102002]
+* Ocupación: [Student]
+* Lugar de residencia: [Internet]
+* Sitio web: [Tu sitio web]
+## Proyectos
+* [Lista de tus proyectos]
+## Intereses
+* [Lista de tus intereses]
+
+
+
 ### Hi there 👋
 
 <!--
