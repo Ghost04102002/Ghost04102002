@@ -14,7 +14,6 @@ proyectos y mis intereses. Mi sobrenombre es ***GHOST0410***. Soy un estudiante 
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
 <picture>
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ghost04102002&show_icons=true&theme=dark"
