@@ -1,19 +1,20 @@
-# Repositorio Personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses. Mi sobrenombre es ***GHOST0410***. Soy un estudiante que cursa el grado de *"Ingenieria en Ciencias de la Computacion"* en ESPOL(Escuela Superior Politecnica del Litoral), Ecuador.
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-* [Perfiles que me inspiraron](#perfiles-que-me-inspiraron)
-## Información personal
-* Seudonimo: GHOST0410
-* Ocupación: Estudiante
-* Lugar de residencia: Internet/ESPOL
-* Sitio web: [Tu sitio web]
-## Proyectos
+# Personal Repository
+This is my personal site. Here you can find information about me, my projects and my interests. My nickname is ***GHOST0410***. I am a student pursuing a degree in *"Computer Science Engineering"* at ESPOL(Escuela Superior Politecnica del Litoral), Ecuador.
+## Content
+* [Personal information](#personal-information)
+* [Projects](#projects)
+* [Interests](#interests)
+* [Profiles that inspired me](#profiles-that-inspired-me)
+* [Support me as you wish](#support-me-as-you-wish)
+## Personal information
+* Nickname: GHOST0410
+* Occupation: Student
+* Residence place: Internet/ESPOL
+* Website: [To be created]
+## Projects
 * [Landing-Page-SPA](https://ghost04102002.github.io/Landing-Page-SPA/)
-## Intereses
+* [Clima---Dashboard](https://ghost04102002.github.io/Clima---Dashboard/)
+## Interests
 <picture>
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ghost04102002&show_icons=true&theme=dark"
@@ -27,10 +28,10 @@ proyectos y mis intereses. Mi sobrenombre es ***GHOST0410***. Soy un estudiante 
 </picture>
 
 -   :pencil2: C / Java / Python 
--   :seedling: Aprendiendo sobre seguridad de la informacion, sistemas operativos y aplicaciones web y moviles
--   :thought_balloon: Preguntame cualquier cosa en [Discusiones](https://github.com/Ghost04102002/Ghost04102002/discussions/new)!
+-   :seedling: Learning about Web and Mobile Application Development, Information Security and Operating Systems
+-   :thought_balloon: Ask me about anything in [Discussions](https://github.com/Ghost04102002/Ghost04102002/discussions)!
 <details>
-<summary>:tv: Lista de animes favoritos</summary>
+<summary>:tv: Watched Animes</summary>
   
 <!-- favorites_anime starts -->
 * [Violet Evergarden](https://www3.animeflv.net/anime/violet-evergarden)
@@ -62,14 +63,15 @@ proyectos y mis intereses. Mi sobrenombre es ***GHOST0410***. Soy un estudiante 
 
 </details>
 <details>
-<summary>:book: Lista de mangas/manhwas/manhuas favoritos</summary>
+<summary>:book: Readed Mangas/Manhwas/Manhuas</summary>
   
 <!-- favorites_manga starts -->
+* [Solo Leveling](https://visortmo.com/library/manhwa/217/solo-leveling)
 <!-- favorites_manga ends -->
 
 </details>
 <details>
-<summary>:writing_hand: Lista de personajes favoritos</summary>
+<summary>:writing_hand: Favorite Characters</summary>
   
 <!-- favorites_characters starts -->
 * [Mahiru Shiina](https://anilist.co/character/195602)
@@ -112,9 +114,20 @@ Feel free to contact me :yum:
 
 </details>
 
-## Perfiles que me inspiraron
+## Profiles that inspired me
 * [Yufan You](https://github.com/ouuan)
 * [Moe Poi ~](https://github.com/moepoi)
+* [Arsybai](https://github.com/Arsybai)
+
+## Are you my mastah?
+![banner](https://c.wallhere.com/photos/b2/b2/Fate_Stay_Night_Tohsaka_Rin_Saber_anime_girls_anime_Fate_Series_maid_outfit-339042.jpg!d)
+
+
+## Support me as you wish
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edusemac@espol.edu.ec) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GHOST04102002)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghost04102002)
+[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ghost0410?_t=8hTxFW4TimT&_r=1)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/GHOST04102002)
 <!--
 **Ghost04102002/Ghost04102002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
