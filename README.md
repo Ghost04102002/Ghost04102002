@@ -40,6 +40,20 @@ This is my personal site. Here you can find information about me, my projects an
 * [Mahoutsukai no Yome](https://www3.animeflv.net/anime/mahoutsukai-no-yome)
 * [Fumetsu no Anata e](https://www3.animeflv.net/anime/fumetsu-no-anata-e)
 * [Blue Period](https://animefenix.tv/blue-period)
+* [Mokushiroku no Yonkishi](https://animefenix.tv/mokushiroku-no-yonkishi)
+* [Kusuriya no Hitorigoto](https://www3.animeflv.net/anime/kusuriya-no-hitorigoto)
+* [Hoshikuzu Telepath](https://www3.animeflv.net/anime/hoshikuzu-telepath)
+* [Buta no Liver wa Kanetsu Shiro](https://www3.animeflv.net/anime/buta-no-liver-wa-kanetsu-shiro)
+* [Kikansha no Mahou wa Tokubetsu desu](https://www3.animeflv.net/anime/kikansha-no-mahou-wa-tokubetsu-desu)
+* [Undead Unluck](https://www3.animeflv.net/anime/undead-unluck)
+* [Hametsu no Oukoku](https://www3.animeflv.net/anime/hametsu-no-oukoku)
+* [Kamierabi](https://www3.animeflv.net/anime/kamierabi)
+* [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://www3.animeflv.net/anime/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu)
+* [Watashi no Oshi wa Akuyaku Reijou.](https://www3.animeflv.net/anime/watashi-no-oshi-wa-akuyaku-reijou)
+* [Seiken Gakuin no Makentsukai](https://www3.animeflv.net/anime/seiken-gakuin-no-makentsukai)
+* [Shy](https://www3.animeflv.net/anime/shy)
+* [Dekoboko Majo no Oyako Jijou](https://www3.animeflv.net/anime/dekoboko-majo-no-oyako-jijou)
+* [Sousou no Frieren](https://www3.animeflv.net/anime/sousou-no-frieren)
 * [Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo](https://www3.animeflv.net/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100nin-no-kanojo)
 * [Hikikomari Kyuuketsuki no Monmon](https://www3.animeflv.net/anime/hikikomari-kyuuketsuki-no-monmon)
 * [Spy x Family](https://www3.animeflv.net/anime/spy-x-family)
@@ -229,6 +243,16 @@ This is my personal site. Here you can find information about me, my projects an
 * [Elfen Lied](https://www3.animeflv.net/anime/elfen-lied)
 * [Tsukihime, Lunar Legend](https://www3.animeflv.net/anime/tsukihime)
 * [Hotaru no Haka](https://www3.animeflv.net/anime/hotaru-no-haka)
+* [Zuihou de Zhaohuan Shi](https://animefenix.tv/zuihou-de-zhaohuan-shi-the-last-summoner)
+* [Tenkuu Shinpan](https://animefenix.tv/tenkuu-shinpan)
+* [Kaizoku Oujo](https://animefenix.tv/kaizoku-oujo)
+* [Kami no Tou: Tower of God](https://animefenix.tv/kami-no-tou-tower-of-god)
+* [Paripi Koumei](https://animefenix.tv/paripi-koumei)
+* [Another World](https://animefenix.tv/another-world)
+* [Hello World](https://animefenix.tv/hello-world)
+* [Josee to Tora to Sakana-tachi](https://animefenix.tv/josee-to-tora-to-sakana-tachi)
+* [Summer Time Render](https://animefenix.tv/summer-time-render)
+* [Overlord](https://www3.animeflv.net/anime/overlord)
 * [Tensei shitara Slime Datta Ken](https://www3.animeflv.net/anime/tensei-shitara-slime-datta-ken)
 * [Youjo Senki](https://www3.animeflv.net/anime/youjo-senki)
 * [Mushoku Tensei: Isekai Ittara Honki Dasu](https://www3.animeflv.net/anime/mushoku-tensei-isekai-ittara-honki-dasu)
@@ -242,6 +266,50 @@ This is my personal site. Here you can find information about me, my projects an
   
 <!-- favorites_manga starts -->
 * [Solo Leveling](https://visortmo.com/library/manhwa/217/solo-leveling)
+
+  
+* [My Lesbian Experience With Loneliness](https://visortmo.com/library/manga/19348/my-lesbian-experience-with-loneliness)
+* [Out of the Blue!](https://visortmo.com/library/manga/11973/out-of-the-blue)
+* [No es seguro para el trabajo](https://visortmo.com/library/manhwa/71979/no-es-seguro-para-el-trabajo)
+* [Oyasumi Punpun](https://visortmo.com/library/manga/11070/oyasumi-punpun)
+* [Sayonara Eri](https://visortmo.com/library/one_shot/68382/sayonara-eri)
+* [Shonen no Abyss-Senkou Shojo](https://visortmo.com/library/manga/65531/shonen-no-abyss-senkou-shojo)
+* [Nettai-gyo wa Yuki ni Kogareru](https://visortmo.com/library/manga/33779/nettai-gyo-wa-yuki-ni-kogareru)
+* [Secret Alliance](https://visortmo.com/library/manhwa/48403/secret-alliance)
+* [Ver sus calzones me permite seguir](https://visortmo.com/library/manhwa/43743/ver-sus-calzones-me-permite-seguir)
+* [Umibe no Onnanoko](https://visortmo.com/library/manga/8719/umibe-no-onnanoko)
+* [Verano Floreciente](https://visortmo.com/library/manga/69772/verano-floreciente)
+* [Sodom no Hana ni Kiraboshi](https://visortmo.com/library/manga/50809/sodom-no-hana-ni-kiraboshi)
+* [I Need You, Noona](https://visortmo.com/library/manhwa/68442/i-need-you-noona)
+* [Is love the answer?](https://visortmo.com/library/manga/75461/es-amor-la-respuesta)
+* [Finished work?](https://visortmo.com/library/manhwa/69375/has-terminado-de-trabajar)
+* [Amiga de la infancia](https://visortmo.com/library/manhwa/70176/amiga-de-la-infancia)
+* [Bean Curd Woman](https://visortmo.com/library/manhwa/68058/bean-curd-woman)
+* [Between Summer and Fall](https://visortmo.com/library/manhwa/22961/Between-Summer-and-Fall)
+* [Cruzando la línea de los 20 años](https://visortmo.com/library/manhwa/63345/cruzando-la-linea-de-los-20-anos)
+* [Cuñado, ponte duro](https://visortmo.com/library/manhwa/68857/cunado-ponte-duro)
+* [Go-Tobun no Hanayome](https://visortmo.com/library/manga/23106/go-tobun-no-hanayome)
+* [Her Summon](https://visortmo.com/library/manhwa/93/her-summon)
+* [How About This Attitude?](https://visortmo.com/library/manhwa/68643/how-about-this-attitude)
+* [I Am Custom Made](https://visortmo.com/library/one_shot/42408/i-am-custom-made)
+* [Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunōsen](https://visortmo.com/library/manga/131/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunosen)
+* [Kaguya-sama wo Kataritai](https://visortmo.com/library/manga/41351/kaguya-sama-wo-kataritai)
+* [Kanojo, Hitomishirimasu](https://visortmo.com/library/manga/51098/kanojo-hitomishirimasu)
+* [Kanojo, Okarishimasu ~ Antología](https://visortmo.com/library/manga/52414/kanojo-okarishimasu-antologia)
+* [Le pregunté a mi primera novia porqué decidió salir conmigo](https://visortmo.com/library/manga/76725/hajimete-dekita-kanojo-ni-nande-tsukiattekureta-no-ka-kiitemita)
+* [Look Back](https://visortmo.com/library/one_shot/61622/look-back)
+* [Los 10 años en que más te Amé](https://visortmo.com/library/manhua/41563/los-10-anos-en-que-mas-te-ame)
+* [Machida-kun no sekai](https://visortmo.com/library/manga/15539/machida-kun-no-sekai)
+* [Mine-kun es asexual](https://visortmo.com/library/one_shot/75207/mine-kun-es-asexual)
+* [My Broken Mariko](https://visortmo.com/library/manga/47758/my-broken-mariko)
+* [My First Time](https://visortmo.com/library/manhwa/70224/my-first-time)
+* [SILENT WAR](https://visortmo.com/library/manhwa/44196/my-kingdom)
+* [College Life Starts With Clubs](https://visortmo.com/library/manhwa/67761/college-life-starts-with-clubs)
+* [Reincarnation of the Battle God](https://visortmo.com/library/manhwa/61036/reincarnation-of-the-battle-god)
+
+  
+
+
 <!-- favorites_manga ends -->
 
 </details>
@@ -249,31 +317,9 @@ This is my personal site. Here you can find information about me, my projects an
 <summary>:writing_hand: Favorite Characters</summary>
   
 <!-- favorites_characters starts -->
-* [Mahiru Shiina](https://anilist.co/character/195602)
-* [Goblin Slayer](https://anilist.co/character/126458/Goblin-Slayer)
-* [Mini Yaemori](https://anilist.co/character/153703)
-* [Loo](https://anilist.co/character/293202)
-* [Mukuro Hoshimiya](https://anilist.co/character/157109)
-* [Akari Watanabe](https://anilist.co/character/191672)
-* [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Kuon](https://anilist.co/character/126823)
+* ![Violet Evergarden](https://e1.pxfuel.com/desktop-wallpaper/546/503/desktop-wallpaper-violet-evergarden-android-violet-evergarden.jpg)[Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden)
+* ![Globin Slayer](https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d)[Goblin Slayer](https://anilist.co/character/126458/Goblin-Slayer)
 * [Vladilena Milizé](https://anilist.co/character/141061)
-* [Yor Forger](https://anilist.co/character/138102)
-* [Chizuru Ichinose](https://anilist.co/character/128106)
-* [Celia Claire](https://anilist.co/character/161678)
-* [Kyouko Hori](https://anilist.co/character/66171)
-* [Nagisa Minase](https://anilist.co/character/162885)
-* [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Ravel Phenex](https://anilist.co/character/58341)
-* [Yuuko Yoshida](https://anilist.co/character/141461)
-* [Ziyu Zhou](https://anilist.co/character/234726)
-* [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Ninym Ralei](https://anilist.co/character/206374)
-* [Marin Kitagawa](https://anilist.co/character/133676)
-* [Holo](https://anilist.co/character/7373)
-* [Ayako Kuroba](https://anilist.co/character/200612)
-* [Nepgear](https://anilist.co/character/49927)
-* [Jibril](https://anilist.co/character/87887)
 <!-- favorites_characters ends -->
 
 <!-- 
@@ -295,10 +341,10 @@ Feel free to contact me :yum:
 * [Arsybai](https://github.com/Arsybai)
 
 ## OS I use
-![Kali](https://img.shields.io/badge/Kali-19CCBF?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Kali](https://img.shields.io/badge/Kali-19CCBF?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 
-## Are you my mastah?
+## Are you my Mastah?
 ![banner](https://c.wallhere.com/photos/b2/b2/Fate_Stay_Night_Tohsaka_Rin_Saber_anime_girls_anime_Fate_Series_maid_outfit-339042.jpg!d)
 
 
