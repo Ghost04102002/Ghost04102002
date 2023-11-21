@@ -266,8 +266,6 @@ This is my personal site. Here you can find information about me, my projects an
   
 <!-- favorites_manga starts -->
 * [Solo Leveling](https://visortmo.com/library/manhwa/217/solo-leveling)
-
-  
 * [My Lesbian Experience With Loneliness](https://visortmo.com/library/manga/19348/my-lesbian-experience-with-loneliness)
 * [Out of the Blue!](https://visortmo.com/library/manga/11973/out-of-the-blue)
 * [No es seguro para el trabajo](https://visortmo.com/library/manhwa/71979/no-es-seguro-para-el-trabajo)
@@ -303,12 +301,30 @@ This is my personal site. Here you can find information about me, my projects an
 * [Mine-kun es asexual](https://visortmo.com/library/one_shot/75207/mine-kun-es-asexual)
 * [My Broken Mariko](https://visortmo.com/library/manga/47758/my-broken-mariko)
 * [My First Time](https://visortmo.com/library/manhwa/70224/my-first-time)
-* [SILENT WAR](https://visortmo.com/library/manhwa/44196/my-kingdom)
+* [Silent War](https://visortmo.com/library/manhwa/44196/my-kingdom)
 * [College Life Starts With Clubs](https://visortmo.com/library/manhwa/67761/college-life-starts-with-clubs)
 * [Reincarnation of the Battle God](https://visortmo.com/library/manhwa/61036/reincarnation-of-the-battle-god)
-
-  
-
+* [¡¿Hay Diosas en Ingeniería?!](https://visortmo.com/library/manhwa/64855/hay-diosas-en-ingenieria)
+* [Oshi No Ko](https://visortmo.com/library/manga/49490/oshi-no-ko)
+* [Aplicación de cumplimiento de deseos](https://visortmo.com/library/manhwa/74189/aplicacion-de-cumplimiento-de-deseos)
+* [Así no se Hace](https://visortmo.com/library/manhwa/76155/asi-no-se-hace)
+* [Chainsaw Man](https://visortmo.com/library/manga/336/chainsaw-man)
+* [Desde hoy eres mi favorita](https://visortmo.com/library/manhwa/78072/desde-hoy-eres-mi-favorita)
+* [Fumetsu no Anata e](https://visortmo.com/library/manga/20866/fumetsu-no-anata-e)
+* [Gokurakugai](https://visortmo.com/library/manga/70642/gokurakugai)
+* [Kanojo, Okarishimasu](https://visortmo.com/library/manga/30388/kanojo-okarishimasu)
+* [Ki ni Natteru Hito ga Otoko Janakatta](https://visortmo.com/library/manga/69095/ki-ni-natteru-hito-ga-otoko-janakatta)
+* [Kid's Cafe Moms](https://visortmo.com/library/manhwa/67931/kids-cafe-moms)
+* [La gata Yandere es excesivamente dominante](https://visortmo.com/library/manga/71495/la-gata-yandere-es-excesivamente-dominante)
+* [The Beginning After The End](https://visortmo.com/library/manhwa/47049/la-vida-despues-de-la-muerte)
+* [Damn Reincarnation](https://visortmo.com/library/manhwa/70359/maldita-reencarnacion)
+* [Player](https://visortmo.com/library/manhwa/50010/player)
+* [Record of Ragnarok](https://visortmo.com/library/manga/42639/record-of-ragnarok)
+* [Vacaciones de verano empapadas](https://visortmo.com/library/manhwa/71027/vacaciones-de-verano-empapadas)
+* [Tadokoro-san](https://visortmo.com/library/manga/42200/tadokoro-san)
+* [Shuumatsu no Valkyrie: The Jack the Ripper Case Files](https://visortmo.com/library/manga/73382/shuumatsu-no-valkyrie-the-jack-the-ripper-case-files)
+* [Shiunji-ke no Kodomotachi](https://visortmo.com/library/manga/67271/shiunji-ke-no-kodomotachi)
+* [Shonen no Abyss](https://visortmo.com/library/manga/49890/shonen-no-abyss)
 
 <!-- favorites_manga ends -->
 
@@ -319,7 +335,18 @@ This is my personal site. Here you can find information about me, my projects an
 <!-- favorites_characters starts -->
 * ![Violet Evergarden](https://e1.pxfuel.com/desktop-wallpaper/546/503/desktop-wallpaper-violet-evergarden-android-violet-evergarden.jpg)[Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden)
 * ![Globin Slayer](https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d)[Goblin Slayer](https://anilist.co/character/126458/Goblin-Slayer)
-* [Vladilena Milizé](https://anilist.co/character/141061)
+* ![Arthur Leywin](https://i.pinimg.com/originals/e6/26/6a/e6266a3cf9ce54650f5ce8cf6b3a7e84.jpg)[Arthur Leywin](https://tbate.fandom.com/wiki/Arthur_Leywin)
+* ![Vivy](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest?cb=20210209135843)[Vivy](https://anilist.co/character/209903/Vivy)
+* ![Albedo](https://skfsdesign.files.wordpress.com/2022/09/untitled-1.1.jpg?w=1568)[Albedo](https://anilist.co/character/89122/Albedo)
+* ![Mordred](https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164)[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)
+* ![Kiritsugu Emiya](https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg)[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)
+* ![Fushi](https://static.wikia.nocookie.net/vsbattles/images/1/15/Fushi.jpg/revision/latest?cb=20180914081239)[Fushi](https://anilist.co/character/136548/Fushi)
+* ![Vladilena Milizé](https://pbs.twimg.com/media/EtVwtQ-XMAAny5Z.jpg:large)[Vladilena Milizé](https://anilist.co/character/141061/Vladilena-Miliz)
+* ![Shinei Nouzen](https://e1.pxfuel.com/desktop-wallpaper/842/429/desktop-wallpaper-malphas-shinei-nouzen.jpg)[Shinei Nouzen](https://anilist.co/character/141060/Shinei-Nouzen)
+* ![Tanya Degurechaff](https://images7.alphacoders.com/839/839115.png)[Tanya Degurechaff](https://anilist.co/character/121052/Tanya-Degurechaff)
+* ![Crimson](https://m.media-amazon.com/images/S/pv-target-images/215964c5d3d14556e99fce81b74cf41f256ccc00b7bfd50a859ce7f49ba71569.jpg)[Crimson](https://anilist.co/character/168967/Crimson)
+* ![Ragna](https://i0.wp.com/clownfishtv.com/wp-content/uploads/2022/07/Ragna-Crimson.jpg?fit=1280%2C720&ssl=1)[Ragna](https://anilist.co/character/204860/Ragna)
+
 <!-- favorites_characters ends -->
 
 <!-- 
