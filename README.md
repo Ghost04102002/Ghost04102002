@@ -40,6 +40,8 @@ This is my personal site. Here you can find information about me, my projects an
 * [Mahoutsukai no Yome](https://www3.animeflv.net/anime/mahoutsukai-no-yome)
 * [Fumetsu no Anata e](https://www3.animeflv.net/anime/fumetsu-no-anata-e)
 * [Blue Period](https://animefenix.tv/blue-period)
+* [Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta](https://www3.animeflv.net/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-srank-ni-natteta)
+* [Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story](https://www3.animeflv.net/anime/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story)
 * [Mokushiroku no Yonkishi](https://animefenix.tv/mokushiroku-no-yonkishi)
 * [Kusuriya no Hitorigoto](https://www3.animeflv.net/anime/kusuriya-no-hitorigoto)
 * [Hoshikuzu Telepath](https://www3.animeflv.net/anime/hoshikuzu-telepath)
