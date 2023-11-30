@@ -31,7 +31,10 @@ This is my personal site. Here you can find information about me, my projects an
 -   :pencil2: C / Java / Python 
 -   :seedling: Learning about Web and Mobile Application Development, Information Security and Operating Systems
 -   :thought_balloon: Ask me about anything in [Discussions](https://github.com/Ghost04102002/Ghost04102002/discussions)!
-<details>
+
+
+<img src="https://img.anili.st/user/6513244">  
+<details>   
 <summary>:tv: Watched Animes</summary>
   
 <!-- favorites_anime starts -->
