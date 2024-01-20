@@ -371,20 +371,20 @@ This is my personal site. Here you can find information about me, my projects an
 <summary>:writing_hand: Favorite Characters</summary>
   
 <!-- favorites_characters starts -->
-* ![Violet Evergarden](https://e1.pxfuel.com/desktop-wallpaper/546/503/desktop-wallpaper-violet-evergarden-android-violet-evergarden.jpg)[Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden)
-* ![Globin Slayer](https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d)[Goblin Slayer](https://anilist.co/character/126458/Goblin-Slayer)
-* ![Arthur Leywin](https://i.pinimg.com/originals/e6/26/6a/e6266a3cf9ce54650f5ce8cf6b3a7e84.jpg)[Arthur Leywin](https://tbate.fandom.com/wiki/Arthur_Leywin)
-* ![Vivy](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest?cb=20210209135843)[Vivy](https://anilist.co/character/209903/Vivy)
-* ![Albedo](https://skfsdesign.files.wordpress.com/2022/09/untitled-1.1.jpg?w=1568)[Albedo](https://anilist.co/character/89122/Albedo)
-* ![Mordred](https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164)[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)
-* ![Kiritsugu Emiya](https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg)[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)
-* ![Fushi](https://static.wikia.nocookie.net/vsbattles/images/1/15/Fushi.jpg/revision/latest?cb=20180914081239)[Fushi](https://anilist.co/character/136548/Fushi)
-* ![Vladilena Milizé](https://pbs.twimg.com/media/EtVwtQ-XMAAny5Z.jpg:large)[Vladilena Milizé](https://anilist.co/character/141061/Vladilena-Miliz)
-* ![Shinei Nouzen](https://e1.pxfuel.com/desktop-wallpaper/842/429/desktop-wallpaper-malphas-shinei-nouzen.jpg)[Shinei Nouzen](https://anilist.co/character/141060/Shinei-Nouzen)
-* ![Tanya Degurechaff](https://images7.alphacoders.com/839/839115.png)[Tanya Degurechaff](https://anilist.co/character/121052/Tanya-Degurechaff)
-* ![Crimson](https://m.media-amazon.com/images/S/pv-target-images/215964c5d3d14556e99fce81b74cf41f256ccc00b7bfd50a859ce7f49ba71569.jpg)[Crimson](https://anilist.co/character/168967/Crimson)
-* ![Ragna](https://i0.wp.com/clownfishtv.com/wp-content/uploads/2022/07/Ragna-Crimson.jpg?fit=1280%2C720&ssl=1)[Ragna](https://anilist.co/character/204860/Ragna)
-* ![Adonis](https://static.wikia.nocookie.net/p__/images/7/77/Kingdom_of_Ruin_anime_visual2.webp/revision/latest?cb=20231014142631&path-prefix=protagonist)[Adonis](https://anilist.co/character/299366/Adonis)
+<img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/546/503/desktop-wallpaper-violet-evergarden-android-violet-evergarden.jpg"/><br>[Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden)<br>
+<img align="center" width="50%" src="https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d"/><br>[Globin Slayer](https://anilist.co/character/126458/Goblin-Slayer)<br>
+<img align="center" width="50%" src="https://i.pinimg.com/originals/e6/26/6a/e6266a3cf9ce54650f5ce8cf6b3a7e84.jpg"/><br>[Arthur Leywin](https://tbate.fandom.com/wiki/Arthur_Leywin)<br>
+<img align="center" width="50%" src="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest?cb=20210209135843"/><br>[Vivy](https://anilist.co/character/209903/Vivy)<br>
+<img align="center" width="50%" src="https://skfsdesign.files.wordpress.com/2022/09/untitled-1.1.jpg?w=1568"/><br>[Albedo](https://anilist.co/character/89122/Albedo)<br>
+<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164"/><br>[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)<br>
+<img align="center" width="50%" src="https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg"/><br>[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)<br>
+<img align="center" width="50%" src="https://static.wikia.nocookie.net/vsbattles/images/1/15/Fushi.jpg/revision/latest?cb=20180914081239"/><br>[Fushi](https://anilist.co/character/136548/Fushi)<br>
+<img align="center" width="50%" src="https://pbs.twimg.com/media/EtVwtQ-XMAAny5Z.jpg:large"/><br>[Vladilena Milizé](https://anilist.co/character/141061/Vladilena-Miliz)<br>
+<img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/842/429/desktop-wallpaper-malphas-shinei-nouzen.jpg"/><br>[Shinei Nouzen](https://anilist.co/character/141060/Shinei-Nouzen)<br>
+<img align="center" width="50%" src="https://images7.alphacoders.com/839/839115.png"/><br>[Tanya Degurechaff](https://anilist.co/character/121052/Tanya-Degurechaff)<br>
+<img align="center" width="50%" src="https://m.media-amazon.com/images/S/pv-target-images/215964c5d3d14556e99fce81b74cf41f256ccc00b7bfd50a859ce7f49ba71569.jpg"/><br>[Crimson](https://anilist.co/character/168967/Crimson)<br>
+<img align="center" width="50%" src="https://i0.wp.com/clownfishtv.com/wp-content/uploads/2022/07/Ragna-Crimson.jpg?fit=1280%2C720&ssl=1"/><br>[Ragna](https://anilist.co/character/204860/Ragna)<br>
+<img align="center" width="50%" src="https://media.zenfs.com/en/comingsoon_net_477/d5aef78eae444096560fd16930f097bd"/><br>[Adonis](https://anilist.co/character/299366/Adonis)<br>
 
 <!-- favorites_characters ends -->
 
