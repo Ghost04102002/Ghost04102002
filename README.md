@@ -4,8 +4,8 @@ This is my personal site. Here you can find information about me, my projects an
 * [Personal information](#personal-information)
 * [Projects](#projects)
 * [Interests](#interests)
-* [OS I use](#os-i-use)
 * [Profiles that inspired me](#profiles-that-inspired-me)
+* [OS I use](#os-i-use)
 * [Support me as you wish](#support-me-as-you-wish)
 ## Personal information
 * Nickname: GHOST0410
@@ -15,7 +15,15 @@ This is my personal site. Here you can find information about me, my projects an
 ## Projects
 * [Landing-Page-SPA](https://ghost04102002.github.io/Landing-Page-SPA/)
 * [Clima---Dashboard](https://ghost04102002.github.io/Clima---Dashboard/)
+* [Dataset MPA - Angular](https://josdramo.github.io/mpa/) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
+* [Rest_api](https://restapi-production-a15e.up.railway.app/documentation/) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
+* [Security](https://security-production-624c.up.railway.app/users/getToken) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
+* [Desires-Mirror]()
 ## Interests
+-   :pencil2: C / Java / Python 
+-   :seedling: Learning about Web and Mobile Application Development, Information Security and Operating Systems
+-   :thought_balloon: Ask me about anything in [Discussions](https://github.com/Ghost04102002/Ghost04102002/discussions)!
+
 <picture>
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ghost04102002&show_icons=true&theme=dark"
@@ -25,13 +33,22 @@ This is my personal site. Here you can find information about me, my projects an
     srcset="https://github-readme-stats.vercel.app/api?username=Ghost04102002&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ghost04102002&show_icons=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ghost04102002&show_icons=true" />
+    
 </picture>
 
--   :pencil2: C / Java / Python 
--   :seedling: Learning about Web and Mobile Application Development, Information Security and Operating Systems
--   :thought_balloon: Ask me about anything in [Discussions](https://github.com/Ghost04102002/Ghost04102002/discussions)!
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost04102002&show_icons=true&theme=dark&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost04102002&show_icons=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost04102002&show_icons=true"/>
+    
+</picture>
 
 <img src="https://img.anili.st/user/6513244">  
 <details>   
@@ -43,6 +60,18 @@ This is my personal site. Here you can find information about me, my projects an
 * [Mahoutsukai no Yome](https://www3.animeflv.net/anime/mahoutsukai-no-yome)
 * [Fumetsu no Anata e](https://www3.animeflv.net/anime/fumetsu-no-anata-e)
 * [Blue Period](https://animefenix.tv/blue-period)
+* [Majo to Yajuu](https://www3.animeflv.net/anime/majo-to-yajuu)
+* [Oroka na Tenshi wa Akuma to Odoru](https://www3.animeflv.net/anime/oroka-na-tenshi-wa-akuma-to-odoru)
+* [Dosanko Gal wa Namara Menkoi](https://www3.animeflv.net/anime/dosanko-gal-wa-namara-menkoi)
+* [Loop 7-kaime no Akuyaku Reijou wa](https://www3.animeflv.net/anime/loop-7kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru)
+* [Yubisaki to Renren](https://www3.animeflv.net/anime/yubisaki-to-renren)
+* [Solo Leveling](https://www3.animeflv.net/anime/ore-dake-level-up-na-ken)
+* [Kekkon Yubiwa Monogatari](https://www3.animeflv.net/anime/kekkon-yubiwa-monogatari)
+* [Mato Seihei no Slave](https://www3.animeflv.net/anime/mato-seihei-no-slave)
+* [Mahou Shoujo ni Akogarete](https://www3.animeflv.net/anime/mahou-shoujo-ni-akogarete)
+* [Ishura](https://www3.animeflv.net/anime/ishura)
+* [Shaman King Flowers](https://animefenix.tv/shaman-king-flowers)
+* [Pon no Michi](https://animefenix.tv/pon-no-michi)
 * [Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta](https://www3.animeflv.net/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-srank-ni-natteta)
 * [Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story](https://www3.animeflv.net/anime/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story)
 * [Mokushiroku no Yonkishi](https://animefenix.tv/mokushiroku-no-yonkishi)
@@ -271,6 +300,10 @@ This is my personal site. Here you can find information about me, my projects an
   
 <!-- favorites_manga starts -->
 * [Solo Leveling](https://visortmo.com/library/manhwa/217/solo-leveling)
+* [El Sobrino Del Protagonista Masculino Me Quiere Mucho](https://visortmo.com/library/manhwa/77735/el-sobrino-del-protagonista-masculino-me-quiere-mucho)
+* [Haite Kudasai, Takamine-San](https://visortmo.com/library/manga/43118/haite-kudasai-takamine-san)
+* [Mato Seihei no Slave](https://visortmo.com/library/manga/42402/mato-seihei-no-slave)
+* [Moby Dick](https://visortmo.com/library/manhwa/81242/moby-dick)
 * [My Lesbian Experience With Loneliness](https://visortmo.com/library/manga/19348/my-lesbian-experience-with-loneliness)
 * [Out of the Blue!](https://visortmo.com/library/manga/11973/out-of-the-blue)
 * [No es seguro para el trabajo](https://visortmo.com/library/manhwa/71979/no-es-seguro-para-el-trabajo)
@@ -351,6 +384,7 @@ This is my personal site. Here you can find information about me, my projects an
 * ![Tanya Degurechaff](https://images7.alphacoders.com/839/839115.png)[Tanya Degurechaff](https://anilist.co/character/121052/Tanya-Degurechaff)
 * ![Crimson](https://m.media-amazon.com/images/S/pv-target-images/215964c5d3d14556e99fce81b74cf41f256ccc00b7bfd50a859ce7f49ba71569.jpg)[Crimson](https://anilist.co/character/168967/Crimson)
 * ![Ragna](https://i0.wp.com/clownfishtv.com/wp-content/uploads/2022/07/Ragna-Crimson.jpg?fit=1280%2C720&ssl=1)[Ragna](https://anilist.co/character/204860/Ragna)
+* ![Adonis](https://static.wikia.nocookie.net/p__/images/7/77/Kingdom_of_Ruin_anime_visual2.webp/revision/latest?cb=20231014142631&path-prefix=protagonist)[Adonis](https://anilist.co/character/299366/Adonis)
 
 <!-- favorites_characters ends -->
 
