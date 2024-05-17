@@ -50,6 +50,8 @@ This is my personal site. Here you can find information about me, my projects an
     
 </picture>
 
+<img src="https://raw.githubusercontent.com/Ghost04102002/Ghost04102002/output/snake.svg" alt="Snake animation" />
+
 <img src="https://img.anili.st/user/6513244">  
 <details>   
 <summary>:tv: Watched Animes</summary>
