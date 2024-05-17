@@ -20,8 +20,8 @@ This is my personal site. Here you can find information about me, my projects an
 * [Security](https://security-production-624c.up.railway.app/users/getToken) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
 * [Desires-Mirror]()
 ## Interests
--   :pencil2: C / Java / Python 
--   :seedling: Learning about Web and Mobile Application Development, Information Security and Operating Systems
+-   :pencil2: C / Java / Python / Javascript 
+-   :seedling: Learning about Data Science , Programming Languages, Information Systems and Operating Systems
 -   :thought_balloon: Ask me about anything in [Discussions](https://github.com/Ghost04102002/Ghost04102002/discussions)!
 
 <picture>
@@ -62,7 +62,6 @@ This is my personal site. Here you can find information about me, my projects an
 * [Blue Period](https://animefenix.tv/blue-period)
 * [The New Gate](https://www3.animeflv.net/anime/the-new-gate)
 * [Ninja Kamui](https://www.animefenix.tv/ninja-kamui)
-* [The Last Summoner](https://www.animefenix.tv/zuihou-de-zhaohuan-shi-the-last-summoner)
 * [Chiyu Mahou no Machigatta Tsukaikata](https://www3.animeflv.net/anime/chiyu-mahou-no-machigatta-tsukaikata)
 * [Nozomanu Fushi no Boukensha](https://www3.animeflv.net/anime/nozomanu-fushi-no-boukensha)
 * [Dungeon Meshi](https://www3.animeflv.net/anime/dungeon-meshi)
