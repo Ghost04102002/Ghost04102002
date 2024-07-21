@@ -16,8 +16,9 @@ This is my personal site. Here you can find information about me, my projects an
 * [Landing-Page-SPA](https://ghost04102002.github.io/Landing-Page-SPA/)
 * [Clima---Dashboard](https://ghost04102002.github.io/Clima---Dashboard/)
 * [Dataset MPA - Angular](https://josdramo.github.io/mpa/) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
-* [Rest_api](https://restapi-production-a15e.up.railway.app/documentation/) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
-* [Security](https://security-production-624c.up.railway.app/users/getToken) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
+* [Rest_api](https://github.com/josdramo/rest_api) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
+* [Security](https://github.com/josdramo/security) Collaborated with: [josdramo](https://github.com/josdramo) and [ggpachec](https://github.com/ggpachec)
+* [Lexical, syntactic and semantic analyzer](https://github.com/Jecanart/avanceLP) Collaborated with: [Jecanart](https://github.com/Jecanart) and [JoseTorres2210](https://github.com/JoseTorres2210)
 * [Desires-Mirror]()
 ## Interests
 -   :pencil2: C / Java / Python / Javascript 
@@ -60,6 +61,23 @@ This is my personal site. Here you can find information about me, my projects an
 * [Mahoutsukai no Yome](https://www3.animeflv.net/anime/mahoutsukai-no-yome)
 * [Fumetsu no Anata e](https://www3.animeflv.net/anime/fumetsu-no-anata-e)
 * [Blue Period](https://animefenix.tv/blue-period)
+* [Make Heroine ga Oosugiru!](https://www3.animeflv.net/anime/make-heroine-ga-oosugiru)
+* [Atri: My Dear Moments](https://www3.animeflv.net/anime/atri-my-dear-moments)
+* [Naze Boku no Sekai wo Daremo Oboeteinai no ka?](https://www3.animeflv.net/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka)
+* [Koi wa Futago de Warikirenai](https://www3.animeflv.net/anime/koi-wa-futago-de-warikirenai)
+* [Isekai Shikkaku](https://www3.animeflv.net/anime/isekai-shikkaku)
+* [Tsue to Tsurugi no Wistoria](https://www3.animeflv.net/anime/tsue-to-tsurugi-no-wistoria)
+* [Shikanoko Nokonoko Koshitantan](https://www3.animeflv.net/anime/shikanoko-nokonoko-koshitantan)
+* [Na Nare Hana Nare](https://www3.animeflv.net/anime/na-nare-hana-nare)
+* [Elf-san wa Yaserarenai.](https://www3.animeflv.net/anime/elfsan-wa-yaserarenai)
+* [2.5-jigen no Ririsa](https://www3.animeflv.net/anime/25jigen-no-ririsa)
+* [Gimai Seikatsu](https://www3.animeflv.net/anime/gimai-seikatsu)
+* [Giji Harem](https://www3.animeflv.net/anime/giji-harem)
+* [Senpai wa Otokonoko](https://www3.animeflv.net/anime/senpai-wa-otokonoko)
+* [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made]([https://animefenix.tv/blue-period](https://www3.animeflv.net/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made))
+* [Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san](https://www3.animeflv.net/anime/tokidoki-bosotto-russiago-de-dereru-tonari-no-alyasan)
+* [Boku no Tsuma wa Kanjou ga Nai](https://www3.animeflv.net/anime/boku-no-tsuma-wa-kanjou-ga-nai)
+* [Isekai Suicide Squad](https://www3.animeflv.net/anime/isekai-suicide-squad)
 * [The New Gate](https://www3.animeflv.net/anime/the-new-gate)
 * [Ninja Kamui](https://www.animefenix.tv/ninja-kamui)
 * [Chiyu Mahou no Machigatta Tsukaikata](https://www3.animeflv.net/anime/chiyu-mahou-no-machigatta-tsukaikata)
@@ -391,21 +409,29 @@ This is my personal site. Here you can find information about me, my projects an
 <summary>:writing_hand: Favorite Characters</summary>
   
 <!-- favorites_characters starts -->
-<img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/546/503/desktop-wallpaper-violet-evergarden-android-violet-evergarden.jpg"/><br>[Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden)<br>
-<img align="center" width="50%" src="https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d"/><br>[Globin Slayer](https://anilist.co/character/126458/Goblin-Slayer)<br>
-<img align="center" width="50%" src="https://i.pinimg.com/originals/e6/26/6a/e6266a3cf9ce54650f5ce8cf6b3a7e84.jpg"/><br>[Arthur Leywin](https://tbate.fandom.com/wiki/Arthur_Leywin)<br>
-<img align="center" width="50%" src="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest?cb=20210209135843"/><br>[Vivy](https://anilist.co/character/209903/Vivy)<br>
-<img align="center" width="50%" src="https://skfsdesign.files.wordpress.com/2022/09/untitled-1.1.jpg?w=1568"/><br>[Albedo](https://anilist.co/character/89122/Albedo)<br>
-<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164"/><br>[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)<br>
-<img align="center" width="50%" src="https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg"/><br>[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)<br>
-<img align="center" width="50%" src="https://static.wikia.nocookie.net/vsbattles/images/1/15/Fushi.jpg/revision/latest?cb=20180914081239"/><br>[Fushi](https://anilist.co/character/136548/Fushi)<br>
-<img align="center" width="50%" src="https://pbs.twimg.com/media/EtVwtQ-XMAAny5Z.jpg:large"/><br>[Vladilena Milizé](https://anilist.co/character/141061/Vladilena-Miliz)<br>
-<img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/842/429/desktop-wallpaper-malphas-shinei-nouzen.jpg"/><br>[Shinei Nouzen](https://anilist.co/character/141060/Shinei-Nouzen)<br>
-<img align="center" width="50%" src="https://images7.alphacoders.com/839/839115.png"/><br>[Tanya Degurechaff](https://anilist.co/character/121052/Tanya-Degurechaff)<br>
-<img align="center" width="50%" src="https://m.media-amazon.com/images/S/pv-target-images/215964c5d3d14556e99fce81b74cf41f256ccc00b7bfd50a859ce7f49ba71569.jpg"/><br>[Crimson](https://anilist.co/character/168967/Crimson)<br>
-<img align="center" width="50%" src="https://i0.wp.com/clownfishtv.com/wp-content/uploads/2022/07/Ragna-Crimson.jpg?fit=1280%2C720&ssl=1"/><br>[Ragna](https://anilist.co/character/204860/Ragna)<br>
-<img align="center" width="50%" src="https://media.zenfs.com/en/comingsoon_net_477/d5aef78eae444096560fd16930f097bd"/><br>[Adonis](https://anilist.co/character/299366/Adonis)<br>
-
+<img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/546/503/desktop-wallpaper-violet-evergarden-android-violet-evergarden.jpg"/><br>[Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden)<br><br>
+<img align="center" width="50%" src="https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d"/><br>[Globin Slayer](https://anilist.co/character/126458/Goblin-Slayer)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/originals/e6/26/6a/e6266a3cf9ce54650f5ce8cf6b3a7e84.jpg"/><br>[Arthur Leywin](https://tbate.fandom.com/wiki/Arthur_Leywin)<br><br>
+<img align="center" width="50%" src="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest?cb=20210209135843"/><br>[Vivy](https://anilist.co/character/209903/Vivy)<br><br>
+<img align="center" width="50%" src="https://skfsdesign.files.wordpress.com/2022/09/untitled-1.1.jpg?w=1568"/><br>[Albedo](https://anilist.co/character/89122/Albedo)<br><br>
+<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164"/><br>[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)<br><br>
+<img align="center" width="50%" src="https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg"/><br>[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)<br><br>
+<img align="center" width="50%" src="https://static.wikia.nocookie.net/vsbattles/images/1/15/Fushi.jpg/revision/latest?cb=20180914081239"/><br>[Fushi](https://anilist.co/character/136548/Fushi)<br><br>
+<img align="center" width="50%" src="https://pbs.twimg.com/media/EtVwtQ-XMAAny5Z.jpg:large"/><br>[Vladilena Milizé](https://anilist.co/character/141061/Vladilena-Miliz)<br><br>
+<img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/842/429/desktop-wallpaper-malphas-shinei-nouzen.jpg"/><br>[Shinei Nouzen](https://anilist.co/character/141060/Shinei-Nouzen)<br><br>
+<img align="center" width="50%" src="https://images7.alphacoders.com/839/839115.png"/><br>[Tanya Degurechaff](https://anilist.co/character/121052/Tanya-Degurechaff)<br><br>
+<img align="center" width="50%" src="https://m.media-amazon.com/images/S/pv-target-images/215964c5d3d14556e99fce81b74cf41f256ccc00b7bfd50a859ce7f49ba71569.jpg"/><br>[Crimson](https://anilist.co/character/168967/Crimson)<br><br>
+<img align="center" width="50%" src="https://i0.wp.com/clownfishtv.com/wp-content/uploads/2022/07/Ragna-Crimson.jpg?fit=1280%2C720&ssl=1"/><br>[Ragna](https://anilist.co/character/204860/Ragna)<br><br>
+<img align="center" width="50%" src="https://media.zenfs.com/en/comingsoon_net_477/d5aef78eae444096560fd16930f097bd"/><br>[Adonis](https://anilist.co/character/299366/Adonis)<br><br>
+<img align="center" width="50%" src="https://s3.amazonaws.com/comicgeeks/characters/avatars/85978.jpg?t=1713800447"/><br>[25th Baam](https://anilist.co/character/84769/TwentyFifth-Baam)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/564x/78/a4/81/78a4819f5c8ef0492376009809343517.jpg"/><br>[Elaine Lo Po Bia](https://anilist.co/character/135468/Elaine-Lo-Po-Bia)<br><br>
+<img align="center" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY00snXqQb3Pxgj6zSg6KTPJ3wcvNXfRdOgg&s"/><br>[Aguero Agnis Khun](https://anilist.co/character/84781/Aguero-Agnis-Khun)<br><br>
+<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/021/905/645/large/yaga-white.jpg?1582277298"/><br>[White](https://anilist.co/character/135476/White)<br><br>
+<img align="center" width="50%" src="https://boo-prod.b-cdn.net/database/profiles/16861696666940380bbdb5de7f7725a2b7d8bb01f764c.jpg"/><br>[Yatora Yaguchi](https://anilist.co/character/144674/Yatora-Yaguchi)<br><br>
+<img align="center" width="50%" src="https://static.zerochan.net/Ayukawa.Ryuuji.full.3483094.png"/><br>[Ryuuji Ayukawa](https://anilist.co/character/150417/Ryuuji-Ayukawa)<br><br>
+<img align="center" width="50%" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/rwby-weiss-semblance-featured.jpg"/><br>[Weiss Schnee](https://anilist.co/character/126143/Weiss-Schnee)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/originals/41/22/43/412243147b6ccc51fbd9f6468e10a179.jpg"/><br>[Shiho Izumi](https://anilist.co/character/215602/Shiho-Izumi)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/236x/c4/81/ce/c481ce9fd84487e25107e8b78a51b422.jpg"/><br>[Maki Zenin](https://anilist.co/character/134167/Maki-Zenin)<br><br>
 <!-- favorites_characters ends -->
 
 <!-- 
@@ -429,6 +455,7 @@ Feel free to contact me :yum:
 ## OS I use
 [![Kali](https://img.shields.io/badge/Kali-19CCBF?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-FF5900?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/blog/tag/22-04-lts)
 
 ## Are you my Mastah?
 ![banner](https://c.wallhere.com/photos/b2/b2/Fate_Stay_Night_Tohsaka_Rin_Saber_anime_girls_anime_Fate_Series_maid_outfit-339042.jpg!d)
