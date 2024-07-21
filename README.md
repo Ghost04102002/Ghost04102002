@@ -74,7 +74,7 @@ This is my personal site. Here you can find information about me, my projects an
 * [Gimai Seikatsu](https://www3.animeflv.net/anime/gimai-seikatsu)
 * [Giji Harem](https://www3.animeflv.net/anime/giji-harem)
 * [Senpai wa Otokonoko](https://www3.animeflv.net/anime/senpai-wa-otokonoko)
-* [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made]([https://animefenix.tv/blue-period](https://www3.animeflv.net/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made))
+* [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made](https://www3.animeflv.net/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made)
 * [Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san](https://www3.animeflv.net/anime/tokidoki-bosotto-russiago-de-dereru-tonari-no-alyasan)
 * [Boku no Tsuma wa Kanjou ga Nai](https://www3.animeflv.net/anime/boku-no-tsuma-wa-kanjou-ga-nai)
 * [Isekai Suicide Squad](https://www3.animeflv.net/anime/isekai-suicide-squad)
