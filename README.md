@@ -61,6 +61,62 @@ This is my personal site. Here you can find information about me, my projects an
 * [Mahoutsukai no Yome](https://www3.animeflv.net/anime/mahoutsukai-no-yome)
 * [Fumetsu no Anata e](https://www3.animeflv.net/anime/fumetsu-no-anata-e)
 * [Blue Period](https://animefenix.tv/blue-period)
+* [Lord of the Mysteries](https://animev1.com/guimi-zhi-zhu-xiaochou-pian)
+* [Kaoru Hana wa Rin to Saku](https://animev1.com/kaoru-hana-wa-rin-to-saku)
+* [Bian Yingxiong X](https://animev1.com/tu-bian-yingxiong-x)
+* [Takopii no Genzai](https://animev1.com/takopii-no-genzai)
+* [Nukitashi the Animation](https://www3.animeflv.net/anime/nukitashi-the-animation)
+* [Tougen Anki](https://www3.animeflv.net/anime/tougen-anki)
+* [Mikadono Sanshimai wa Angai, Choroi](https://www3.animeflv.net/anime/mikadono-sanshimai-wa-angai-choroi)
+* [Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)](https://www3.animeflv.net/anime/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta)
+* [Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku](https://www3.animeflv.net/anime/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku)
+* [Ruri no Houseki](https://www3.animeflv.net/anime/ruri-no-houseki)
+* [Gachiakuta](https://www3.animeflv.net/anime/gachiakuta)
+* [Hikaru ga Shinda Natsu](https://www3.animeflv.net/anime/hikaru-ga-shinda-natsu)
+* [Ame to Kimi to](https://www3.animeflv.net/anime/ame-to-kimi-to)
+* [Watari-kun no xx ga Houkai Sunzen](https://www3.animeflv.net/anime/watarikun-no-xx-ga-houkai-sunzen)
+* [Busu ni Hanataba wo](https://www3.animeflv.net/anime/busu-ni-hanataba-wo)
+* [Silent Witch: Chinmoku no Majo no Kakushigoto](https://www3.animeflv.net/anime/silent-witch-chinmoku-no-majo-no-kakushigoto)
+* [Mizu Zokusei no Mahoutsukai](https://www3.animeflv.net/anime/mizu-zokusei-no-mahoutsukai)
+* [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://www3.animeflv.net/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha)
+* [Shiunji-ke no Kodomotachi](https://www3.animeflv.net/anime/shiunjike-no-kodomotachi)
+* [Vigilante: Boku no Hero Academia Illegals](https://www3.animeflv.net/anime/vigilante-boku-no-hero-academia-illegals)
+* [Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita](https://www3.animeflv.net/anime/chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita)
+* [Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru](https://www3.animeflv.net/anime/gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru)
+* [Kakushite! Makina-san!!](https://www3.animeflv.net/anime/kakushite-makinasan)
+* [Witch Watch](https://www3.animeflv.net/anime/witch-watch)
+* [Kowloon Generic Romance](https://www3.animeflv.net/anime/kowloon-generic-romance)
+* [Katainaka no Ossan, Kensei ni Naru](https://www3.animeflv.net/anime/katainaka-no-ossan-kensei-ni-naru)
+* [Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)](https://www3.animeflv.net/anime/danjo-no-yuujou-wa-seiritsu-suru-iya-shinai)
+* [Rock wa Lady no Tashinami deshite](https://www3.animeflv.net/anime/rock-wa-lady-no-tashinami-deshite)
+* [The Beginning After the End](https://www3.animeflv.net/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru)
+* [Haite Kudasai, Takamine-san](https://www3.animeflv.net/anime/haite-kudasai-takaminesan)
+* [Ballpark de Tsukamaete!](https://www3.animeflv.net/anime/ballpark-de-tsukamaete)
+* [Sakamoto Days](https://www3.animeflv.net/anime/sakamoto-days)
+* [Nihon e Youkoso Elf-san](https://www3.animeflv.net/anime/nihon-e-youkoso-elfsan)
+* [Girumasu](https://www3.animeflv.net/anime/girumasu)
+* [Akuyaku Reijou Tensei Ojisan](https://www3.animeflv.net/anime/akuyaku-reijou-tensei-ojisan)
+* [Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta](https://www3.animeflv.net/anime/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta)
+* [Douse, Koishite Shimaunda](https://www3.animeflv.net/anime/douse-koishite-shimaunda)
+* [Around 40 Otoko no Isekai Tsuuhan](https://www3.animeflv.net/anime/around-40-otoko-no-isekai-tsuuhan)
+* [Honey Lemon Soda](https://www3.animeflv.net/anime/honey-lemon-soda)
+* [Kono Kaisha ni Suki na Hito ga Imasu](https://www3.animeflv.net/anime/kono-kaisha-ni-suki-na-hito-ga-imasu)
+* [Zenshuu](https://www3.animeflv.net/anime/zenshuu)
+* [Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru](https://www3.animeflv.net/anime/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru)
+* [Class no Daikirai na Joshi to Kekkon suru Koto ni Natta](https://www3.animeflv.net/anime/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta)
+* [Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://www3.animeflv.net/anime/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai)
+* [Momentary Lily](https://www3.animeflv.net/anime/momentary-lily)
+* [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://www3.animeflv.net/anime/srank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu)
+* [Maou 2099](https://www3.animeflv.net/anime/maou-2099)
+* [Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu](https://www3.animeflv.net/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu)
+* [Tsuma, Shougakusei ni Naru](https://www3.animeflv.net/anime/tsuma-shougakusei-ni-naru)
+* [Kimi wa Meido-sama](https://www3.animeflv.net/anime/kimi-wa-meidosama)
+* [Ranma ½ (2024)](https://www3.animeflv.net/anime/ranma-12-2024)
+* [Kekkon suru tte, Hontou desu ka](https://www3.animeflv.net/anime/kekkon-suru-tte-hontou-desu-ka)
+* [Dandadan](https://www3.animeflv.net/anime/dandadan)
+* [Ao no Hako](https://www3.animeflv.net/anime/ao-no-hako)
+* [Sayounara Ryuusei, Konnichiwa Jinsei](https://www3.animeflv.net/anime/sayounara-ryuusei-konnichiwa-jinsei)
+* [Nageki no Bourei wa Intai shitai](https://www3.animeflv.net/anime/nageki-no-bourei-wa-intai-shitai)
 * [Make Heroine ga Oosugiru!](https://www3.animeflv.net/anime/make-heroine-ga-oosugiru)
 * [Atri: My Dear Moments](https://www3.animeflv.net/anime/atri-my-dear-moments)
 * [Naze Boku no Sekai wo Daremo Oboeteinai no ka?](https://www3.animeflv.net/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka)
@@ -527,28 +583,51 @@ This is my personal site. Here you can find information about me, my projects an
   
 <!-- favorites_characters starts -->
 <img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/546/503/desktop-wallpaper-violet-evergarden-android-violet-evergarden.jpg"/><br>[Violet Evergarden](https://anilist.co/character/90169/Violet-Evergarden)<br><br>
-<img align="center" width="50%" src="https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d"/><br>[Globin Slayer](https://anilist.co/character/126458/Goblin-Slayer)<br><br>
+<img align="center" width="50%" src="https://picfiles.alphacoders.com/648/thumb-1920-648277.png"/><br>[Kim Dokja](https://anilist.co/character/180887/DokJa-Kim)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/originals/65/04/1c/65041c44a6b469be04c81724430e702c.jpg"/><br>[Klein Moretti](https://anilist.co/character/192557/Klein-Moretti)<br><br>
 <img align="center" width="50%" src="https://i.pinimg.com/originals/e6/26/6a/e6266a3cf9ce54650f5ce8cf6b3a7e84.jpg"/><br>[Arthur Leywin](https://tbate.fandom.com/wiki/Arthur_Leywin)<br><br>
+<img align="center" width="50%" src="https://s3.amazonaws.com/comicgeeks/characters/avatars/85978.jpg?t=1713800447"/><br>[25th Baam](https://anilist.co/character/84769/TwentyFifth-Baam)<br><br>
 <img align="center" width="50%" src="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest?cb=20210209135843"/><br>[Vivy](https://anilist.co/character/209903/Vivy)<br><br>
 <img align="center" width="50%" src="https://skfsdesign.files.wordpress.com/2022/09/untitled-1.1.jpg?w=1568"/><br>[Albedo](https://anilist.co/character/89122/Albedo)<br><br>
-<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164"/><br>[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)<br><br>
-<img align="center" width="50%" src="https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg"/><br>[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)<br><br>
+<img align="center" width="50%" src="https://c4.wallpaperflare.com/wallpaper/151/760/982/tensei-shitara-slime-datta-ken-rimuru-tempest-gfxanime-phone-cellphone-hd-wallpaper-preview.jpg"/><br>[Rimuru Tempest](https://anilist.co/character/123962/Rimuru-Tempest)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/736x/c9/d0/ec/c9d0eca06d177b5e79610f28ca06de49.jpg"/><br>[Diablo](https://anilist.co/character/131033/Diablo)<br><br>
+<img align="center" width="50%" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/rwby-weiss-semblance-featured.jpg"/><br>[Weiss Schnee](https://anilist.co/character/126143/Weiss-Schnee)<br><br>
+<img align="center" width="50%" src="https://s1.zerochan.net/Han.Sooyoung.600.4520110.jpg"/><br>[Han Soo-Young](https://anilist.co/character/180901/SuYeong-Han)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/originals/c7/fd/71/c7fd718766a3f538031694a6114ff89f.png"/><br>[Yoo Joonghyuk](https://anilist.co/character/180892/JungHyeok-Yu)<br><br>
+<img align="center" width="50%" src="https://boo-prod.b-cdn.net/database/profiles/16861696666940380bbdb5de7f7725a2b7d8bb01f764c.jpg"/><br>[Yatora Yaguchi](https://anilist.co/character/144674/Yatora-Yaguchi)<br><br>
+<img align="center" width="50%" src="https://static.zerochan.net/Ayukawa.Ryuuji.full.3483094.png"/><br>[Ryuuji Ayukawa](https://anilist.co/character/150417/Ryuuji-Ayukawa)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/originals/41/22/43/412243147b6ccc51fbd9f6468e10a179.jpg"/><br>[Shiho Izumi](https://anilist.co/character/215602/Shiho-Izumi)<br><br>
+<img align="center" width="50%" src="https://c.wallhere.com/photos/82/6c/Goblin_Slayer_anime_red_background_armor-1542707.jpg!d"/><br>[Globin Slayer](https://anilist.co/character/126458/Goblin-Slayer)<br><br>
 <img align="center" width="50%" src="https://static.wikia.nocookie.net/vsbattles/images/1/15/Fushi.jpg/revision/latest?cb=20180914081239"/><br>[Fushi](https://anilist.co/character/136548/Fushi)<br><br>
 <img align="center" width="50%" src="https://pbs.twimg.com/media/EtVwtQ-XMAAny5Z.jpg:large"/><br>[Vladilena Milizé](https://anilist.co/character/141061/Vladilena-Miliz)<br><br>
 <img align="center" width="50%" src="https://e1.pxfuel.com/desktop-wallpaper/842/429/desktop-wallpaper-malphas-shinei-nouzen.jpg"/><br>[Shinei Nouzen](https://anilist.co/character/141060/Shinei-Nouzen)<br><br>
 <img align="center" width="50%" src="https://images7.alphacoders.com/839/839115.png"/><br>[Tanya Degurechaff](https://anilist.co/character/121052/Tanya-Degurechaff)<br><br>
 <img align="center" width="50%" src="https://m.media-amazon.com/images/S/pv-target-images/215964c5d3d14556e99fce81b74cf41f256ccc00b7bfd50a859ce7f49ba71569.jpg"/><br>[Crimson](https://anilist.co/character/168967/Crimson)<br><br>
 <img align="center" width="50%" src="https://i0.wp.com/clownfishtv.com/wp-content/uploads/2022/07/Ragna-Crimson.jpg?fit=1280%2C720&ssl=1"/><br>[Ragna](https://anilist.co/character/204860/Ragna)<br><br>
-<img align="center" width="50%" src="https://media.zenfs.com/en/comingsoon_net_477/d5aef78eae444096560fd16930f097bd"/><br>[Adonis](https://anilist.co/character/299366/Adonis)<br><br>
-<img align="center" width="50%" src="https://s3.amazonaws.com/comicgeeks/characters/avatars/85978.jpg?t=1713800447"/><br>[25th Baam](https://anilist.co/character/84769/TwentyFifth-Baam)<br><br>
-<img align="center" width="50%" src="https://i.pinimg.com/564x/78/a4/81/78a4819f5c8ef0492376009809343517.jpg"/><br>[Elaine Lo Po Bia](https://anilist.co/character/135468/Elaine-Lo-Po-Bia)<br><br>
-<img align="center" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY00snXqQb3Pxgj6zSg6KTPJ3wcvNXfRdOgg&s"/><br>[Aguero Agnis Khun](https://anilist.co/character/84781/Aguero-Agnis-Khun)<br><br>
-<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/021/905/645/large/yaga-white.jpg?1582277298"/><br>[White](https://anilist.co/character/135476/White)<br><br>
-<img align="center" width="50%" src="https://boo-prod.b-cdn.net/database/profiles/16861696666940380bbdb5de7f7725a2b7d8bb01f764c.jpg"/><br>[Yatora Yaguchi](https://anilist.co/character/144674/Yatora-Yaguchi)<br><br>
-<img align="center" width="50%" src="https://static.zerochan.net/Ayukawa.Ryuuji.full.3483094.png"/><br>[Ryuuji Ayukawa](https://anilist.co/character/150417/Ryuuji-Ayukawa)<br><br>
-<img align="center" width="50%" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/rwby-weiss-semblance-featured.jpg"/><br>[Weiss Schnee](https://anilist.co/character/126143/Weiss-Schnee)<br><br>
-<img align="center" width="50%" src="https://i.pinimg.com/originals/41/22/43/412243147b6ccc51fbd9f6468e10a179.jpg"/><br>[Shiho Izumi](https://anilist.co/character/215602/Shiho-Izumi)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/736x/f2/a5/b6/f2a5b6d405be99ea13c451e967e40e58.jpg"/><br>[Adonis](https://anilist.co/character/299366/Adonis)<br><br>
 <img align="center" width="50%" src="https://i.pinimg.com/236x/c4/81/ce/c481ce9fd84487e25107e8b78a51b422.jpg"/><br>[Maki Zenin](https://anilist.co/character/134167/Maki-Zenin)<br><br>
+<img align="center" width="50%" src="https://c4.wallpaperflare.com/wallpaper/145/461/297/vanitas-vanitas-no-carte-anime-boys-husbando-hd-wallpaper-preview.jpg"/><br>[Vanitas](https://anilist.co/character/89590/Vanitas)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/564x/78/a4/81/78a4819f5c8ef0492376009809343517.jpg"/><br>[Elaine Lo Po Bia](https://anilist.co/character/135468/Elaine-Lo-Po-Bia)<br><br>
+<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/021/905/645/large/yaga-white.jpg?1582277298"/><br>[White](https://anilist.co/character/135476/White)<br><br>
+<img align="center" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY00snXqQb3Pxgj6zSg6KTPJ3wcvNXfRdOgg&s"/><br>[Aguero Agnis Khun](https://anilist.co/character/84781/Aguero-Agnis-Khun)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/736x/81/33/0c/81330c340d69f220e56470209e21bc97.jpg"/><br>[Traumerei Lo Po Bia](https://anilist.co/character/268594/Traumerei-Lo-Po-Bia)<br><br>
+<img align="center" width="50%" src="https://animehunch.com/wp-content/uploads/2024/08/Tomodachi-Game-manga.jpg"/><br>[Yuuichi Katagiri](https://anilist.co/character/122064/Yuuichi-Katagiri)<br><br>
+<img align="center" width="50%" src="https://static.wikia.nocookie.net/saintseiya/images/4/45/Manigoldo_de_cancer_lc.png/revision/latest?cb=20130627234154&path-prefix=es"/><br>[Manigoldo](https://anilist.co/character/30958/Manigoldo-Cancer)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/736x/1e/65/fa/1e65fa839df6f1b2965b88a269ac78b2.jpg"/><br>[Shaka](https://anilist.co/character/9240/Shaka)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/736x/6c/a0/78/6ca0785be5484949d508859a5394bbb6.jpg"/><br>[Asmita](https://anilist.co/character/29217/Asmita-Virgo)<br><br>
+<img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164"/><br>[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)<br><br>
+<img align="center" width="50%" src="https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg"/><br>[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/736x/03/65/de/0365de9dedc7fc345af00f8622c5c2b1.jpg"/><br>[Jeanne d'Arc Alter](https://anilist.co/character/215691/Jeanne-dArc-Alter)<br><br>
+<img align="center" width="50%" src="https://i.ytimg.com/vi/mvSD_T7l2gI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTihRMA8=&rs=AOn4CLDwlhCg51cs0Hx0jWAFrrWiY5MbQA"/><br>[Morgan le Fay](https://anilist.co/character/239533/Morgan-le-Fay)<br><br>
+<img align="center" width="50%" src="https://pm1.aminoapps.com/8670/fdfbdcbac77fc452ed2f536f23cb172c2a38649er1-512-407v2_hq.jpg"/><br>[Oberon Vortigern](https://anilist.co/character/239532/Oberon)<br><br>
+<img align="center" width="50%" src="https://s1.zerochan.net/Daybit.Sem.Void.600.4158301.jpg"/><br>[Daybit Sem Void](https://anilist.co/character/154540/Daybit--Sem-Void)<br><br>
+<img align="center" width="50%" src="https://pm1.aminoapps.com/7850/1811fb9bed998d7b7c8b0efcdc6313f75c21acc3r1-1033-2000v2_hq.jpg"/><br>[Kirschtaria Wodime](https://anilist.co/character/154537/Kirschtaria--Wodime)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/474x/29/6b/5b/296b5be40618fd441b5a42b645e9ce77.jpg"/><br>[Kiyotaka Ayanokouji](https://anilist.co/character/123212/Kiyotaka-Ayanokouji)<br><br>
+<img align="center" width="50%" src="https://static.wikia.nocookie.net/boys-abyss/images/1/1f/Reijim1.png/revision/latest?cb=20240619225124"/><br>[Reiji Kurose](https://anilist.co/character/170177/Reiji-Kurose)<br><br>
+<img align="center" width="50%" src="https://pbs.twimg.com/media/FARDP-jX0Ac-d1H.jpg:large"/><br>[Ishigami Yuu](https://anilist.co/character/121102/Yuu-Ishigami)<br><br>
+
+
+
 <!-- favorites_characters ends -->
 
 <!-- 
