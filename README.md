@@ -1,5 +1,5 @@
 # Welcome to Ghost04102002's github profile
-This is my personal site. Here you can find information about me, my projects and my interests. My nickname is ***GHOST0410***. I am a student pursuing a degree in *"Computer Science Engineering"* at ESPOL(Escuela Superior Politecnica del Litoral), Ecuador.
+This is my personal site. Here you can find information about me, my projects and my interests. My nickname is ***GHOST0410***. I got a degree in *"Computer Science Engineering"* at ESPOL(Escuela Superior Politecnica del Litoral), Ecuador.
 ## Content
 * [Personal information](#personal-information)
 * [Projects](#projects)
@@ -9,7 +9,7 @@ This is my personal site. Here you can find information about me, my projects an
 * [Support me as you wish](#support-me-as-you-wish)
 ## Personal information
 * Nickname: GHOST0410
-* Occupation: Student
+* Occupation: Freelancer
 * Residence place: Internet/ESPOL
 * Website: [To be created]
 ## Projects
@@ -21,8 +21,8 @@ This is my personal site. Here you can find information about me, my projects an
 * [Lexical, syntactic and semantic analyzer](https://github.com/Jecanart/avanceLP) Collaborated with: [Jecanart](https://github.com/Jecanart) and [JoseTorres2210](https://github.com/JoseTorres2210)
 * [Desires-Mirror]()
 ## Interests
--   :pencil2: C / Java / Python / Javascript 
--   :seedling: Currently doing capstone project, but still as passionate about Data Science as the first day I started college, improving in Big Data, AI and everything that this world involves
+-   :pencil2: C / Java / Python / Javascript / R / SQL 
+-   :seedling: I'm looking for opportunities to apply my knowledge to real-world projects and continue growing in the data field, but still as passionate about Data Science as the first day I started college, improving in Big Data, AI and everything that this world involves
 -   :thought_balloon: Ask me about anything in [Discussions](https://github.com/Ghost04102002/Ghost04102002/discussions)!
 
 <picture>
@@ -61,6 +61,32 @@ This is my personal site. Here you can find information about me, my projects an
 * [Mahoutsukai no Yome](https://www3.animeflv.net/anime/mahoutsukai-no-yome)
 * [Fumetsu no Anata e](https://www3.animeflv.net/anime/fumetsu-no-anata-e)
 * [Blue Period](https://animefenix.tv/blue-period)
+* [Aishiteru Game wo Owarasetai](https://www4.animeflv.net/anime/aishiteru-game-wo-owarasetai)
+* [Kuroneko to Majo no Kyoushitsu](https://www4.animeflv.net/anime/kuroneko-to-majo-no-kyoushitsu)
+* [Yowayowa Sensei](https://www4.animeflv.net/anime/yowayowa-sensei)
+* [Kill Ao](https://www4.animeflv.net/anime/kill-ao)
+* [Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://www4.animeflv.net/anime/kamiina-botan-yoeru-sugata-wa-yuri-no-hana)
+* [Himekishi wa Barbaroi no Yome](https://www4.animeflv.net/anime/himekishi-wa-barbaroi-no-yome)
+* [Marika-chan no Koukando wa Bukkowareteiru](https://www4.animeflv.net/anime/marikachan-no-koukando-wa-bukkowareteiru)
+* [Otaku ni Yasashii Gal wa Inai!?](https://www4.animeflv.net/anime/otaku-ni-yasashii-gal-wa-inai)
+* [Marriagetoxin](https://www4.animeflv.net/anime/marriagetoxin)
+* [Replica datte, Koi wo Suru](https://www4.animeflv.net/anime/replica-datte-koi-wo-suru)
+* [Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://www4.animeflv.net/anime/class-de-2banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta)
+* [Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://www4.animeflv.net/anime/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de)
+* [Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku](https://www4.animeflv.net/anime/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku)
+* [Tongari Boushi no Atelier](https://www4.animeflv.net/anime/tongari-boushi-no-atelier)
+* [Needy Girl Overdose](https://www4.animeflv.net/anime/needy-girl-overdose)
+* [Kanan-sama wa Akumade Choroi](https://www4.animeflv.net/anime/kanansama-wa-akumade-choroi)
+* [Yomi no Tsugai](https://www4.animeflv.net/anime/yomi-no-tsugai)
+* [Koori no Jouheki](https://www4.animeflv.net/anime/koori-no-jouheki)
+* [Haibara-kun no Tsuyokute Seishun New Game](https://www4.animeflv.net/anime/haibarakun-no-tsuyokute-seishun-new-game)
+* [Kirio Fanclub](https://www4.animeflv.net/anime/kirio-fanclub)
+* [Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://www4.animeflv.net/anime/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru)
+* [Reincarnation no Kaben](https://www4.animeflv.net/anime/reincarnation-no-kaben)
+* [Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken](https://www4.animeflv.net/anime/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken)
+* [Maid-san wa Taberu dake](https://www4.animeflv.net/anime/maidsan-wa-taberu-dake)
+* [Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?](https://www4.animeflv.net/anime/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo)
+* [Shunkashuutou Daikousha: Haru no Mai](https://www4.animeflv.net/anime/shunkashuutou-daikousha-haru-no-mai)
 * [Uruwashi no Yoi no Tsuki](https://www3.animeflv.net/anime/uruwashi-no-yoi-no-tsuki)
 * [Kaya-chan wa Kowakunai](https://www3.animeflv.net/anime/kayachan-wa-kowakunai)
 * [Seihantai na Kimi to Boku](https://www3.animeflv.net/anime/seihantai-na-kimi-to-boku)
@@ -651,12 +677,12 @@ This is my personal site. Here you can find information about me, my projects an
 <img align="center" width="50%" src="https://i.pinimg.com/736x/1e/65/fa/1e65fa839df6f1b2965b88a269ac78b2.jpg"/><br>[Shaka](https://anilist.co/character/9240/Shaka)<br><br>
 <img align="center" width="50%" src="https://i.pinimg.com/736x/6c/a0/78/6ca0785be5484949d508859a5394bbb6.jpg"/><br>[Asmita](https://anilist.co/character/29217/Asmita-Virgo)<br><br>
 <img align="center" width="50%" src="https://cdnb.artstation.com/p/assets/images/images/007/239/337/large/jeky-kun-saber-of-red.jpg?1504701164"/><br>[Mordred](https://anilist.co/character/55977/Mordred-Pendragon)<br><br>
-<img align="center" width="50%" src="https://pm1.aminoapps.com/6930/ac7e7c8ff8d0b35288024cb9628c0621e42ff1b9r1-902-1020v2_uhq.jpg"/><br>[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)<br><br>
+<img align="center" width="50%" src="https://w0.peakpx.com/wallpaper/408/177/HD-wallpaper-emiya-kiritsugu-and-irisviel-von-einzbern-emiya-kirisugu-fate-zero-irisviel-von-einzbern-fate-stay-night-fate-series-anime-night.jpg"/><br>[Kiritsugu Emiya](https://anilist.co/character/10010/Kiritsugu-Emiya)<br><br>
 <img align="center" width="50%" src="https://i.pinimg.com/736x/03/65/de/0365de9dedc7fc345af00f8622c5c2b1.jpg"/><br>[Jeanne d'Arc Alter](https://anilist.co/character/215691/Jeanne-dArc-Alter)<br><br>
-<img align="center" width="50%" src="https://i.ytimg.com/vi/mvSD_T7l2gI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTihRMA8=&rs=AOn4CLDwlhCg51cs0Hx0jWAFrrWiY5MbQA"/><br>[Morgan le Fay](https://anilist.co/character/239533/Morgan-le-Fay)<br><br>
-<img align="center" width="50%" src="https://pm1.aminoapps.com/8670/fdfbdcbac77fc452ed2f536f23cb172c2a38649er1-512-407v2_hq.jpg"/><br>[Oberon Vortigern](https://anilist.co/character/239532/Oberon)<br><br>
+<img align="center" width="50%" src="https://i.pinimg.com/236x/ed/98/08/ed9808605134996b043b04c77e8ca802.jpg"/><br>[Morgan le Fay](https://anilist.co/character/239533/Morgan-le-Fay)<br><br>
+<img align="center" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPpr_xhNfffXw_1UeDp2FnfNSZpOMhYzWDs8eeLhuO4T-ZXulKfAZZ-tR&s=10"/><br>[Oberon Vortigern](https://anilist.co/character/239532/Oberon)<br><br>
 <img align="center" width="50%" src="https://s1.zerochan.net/Daybit.Sem.Void.600.4158301.jpg"/><br>[Daybit Sem Void](https://anilist.co/character/154540/Daybit--Sem-Void)<br><br>
-<img align="center" width="50%" src="https://pm1.aminoapps.com/7850/1811fb9bed998d7b7c8b0efcdc6313f75c21acc3r1-1033-2000v2_hq.jpg"/><br>[Kirschtaria Wodime](https://anilist.co/character/154537/Kirschtaria--Wodime)<br><br>
+<img align="center" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7LE_RicOUe7F9IDyxod5vwQGmOLmA52FCdShsdKx7ZgPPbJ7MbjWAJ8it&s=10"/><br>[Kirschtaria Wodime](https://anilist.co/character/154537/Kirschtaria--Wodime)<br><br>
 <img align="center" width="50%" src="https://i.pinimg.com/474x/29/6b/5b/296b5be40618fd441b5a42b645e9ce77.jpg"/><br>[Kiyotaka Ayanokouji](https://anilist.co/character/123212/Kiyotaka-Ayanokouji)<br><br>
 <img align="center" width="50%" src="https://static.wikia.nocookie.net/boys-abyss/images/1/1f/Reijim1.png/revision/latest?cb=20240619225124"/><br>[Reiji Kurose](https://anilist.co/character/170177/Reiji-Kurose)<br><br>
 <img align="center" width="50%" src="https://pbs.twimg.com/media/FARDP-jX0Ac-d1H.jpg:large"/><br>[Ishigami Yuu](https://anilist.co/character/121102/Yuu-Ishigami)<br><br>
@@ -694,7 +720,7 @@ Feel free to contact me :yum:
 
 
 ## Support me as you wish
-[![Outlook](https://img.shields.io/badge/Outlook-00109A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edusemac@espol.edu.ec) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GHOST04102002)
+[![Outlook](https://img.shields.io/badge/Outlook-00109A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasms0410@outlook.com) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GHOST04102002)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghost04102002)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ghost0410?_t=8hTxFW4TimT&_r=1)
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ghost20021004)
